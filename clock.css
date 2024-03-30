@@ -12,7 +12,7 @@ body
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background-color: #212121;
+	background-color: darkgreen;
 }
 .container
 {
@@ -24,8 +24,8 @@ body
 	height: 300px;
 	border-radius: 50%;
 	background-color: rgba(255, 255, 255, 0.1);
-	border: 2px solid rgba(255, 255, 255, 0.25);
-	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.9);
+	border: 2px solid rgba(255, 255, 255, 0.054);
+	box-shadow: 0px 0px 10px #7fe37064;
 	display: flex;
 	justify-content: center;
 	align-items: center;
